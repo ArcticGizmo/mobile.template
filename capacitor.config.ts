@@ -2,8 +2,8 @@ import { CapacitorConfig } from '@capacitor/cli';
 import { KeyboardResize } from '@capacitor/keyboard';
 
 const config: CapacitorConfig = {
-  appId: 'io.arcticgizmo.goals',
-  appName: 'Goals',
+  appId: 'mobile.template',
+  appName: 'Template',
   webDir: 'dist',
   server: {
     androidScheme: 'https'
